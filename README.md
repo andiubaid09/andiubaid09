@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Muhammad Andi Ubaidillah👋
 # 💫 About Me:
-print("Hello World!!"),<br>I'm Muhammad Andi Ubaidillah. <br>Learning to code and exploring software development. <br>Interested in backend development and machine learning.
+Learning to code and exploring software development. <br>Interested in backend development and machine learning.
 
 
 ## 🌐 Socials:
