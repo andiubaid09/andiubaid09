@@ -1,6 +1,12 @@
 ## Hello World! I'm Muhammad Andi Ubaidillah👋
 # 💫 About Me:
-Learning to code and exploring software development. <br>Interested in backend development and machine learning.
+🎓 A computer engineering student passionate about **Data Science, Machine Learning, Backend and Big Data**.  
+💡 I love exploring datasets, building ML models, and deploying them into real-world applications.  
+🛠️ Experienced in **Hadoop, Spark, PyTorch, TensorFlow, Docker, Proxmox, and VSCode**.  
+
+---
+✨ *"Turning data into insights, and insights into action."*
+
 
 
 ## 🌐 Socials:
