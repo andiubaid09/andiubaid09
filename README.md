@@ -2,7 +2,7 @@
 # 💫 About Me:
 🎓 A computer engineering student passionate about **Data Science, Machine Learning, Backend and Big Data**.  
 💡 I love exploring datasets, building ML models, and deploying them into real-world applications.  
-🛠️ Experienced in **Hadoop, Spark, PyTorch, TensorFlow, Docker, Proxmox, and VSCode**.  
+🛠️ Experienced in **Hadoop, Spark, PyTorch, TensorFlow, Docker, Proxmox, Jupyter Notebooks, Scikit-Learn and VSCode**.  
 
 ---
 ✨ *"Turning data into insights, and insights into action."*
